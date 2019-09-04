@@ -7,17 +7,19 @@ MMeClient is a Android app (Free and without advertising also) that you can down
 MMeClient reads the Minio Music Server Index file, and can find, download and play files that are stored in a Minio server or public cloud storage. ( Amazom s3, Google storage, Azure Backblaze B2 and other public anonimous storage)
 
 _MMeClient Screenshot_
+
 ![ScreenShoot](./pictures/Screenshot_20190904-152246.png)
 
 
 
 Instrucctions to use MMeClient app.
 
-## 1- Configuring the Media Storage
+## 1- Configuring access to Media Storage
 
 When you enter for the first time to MMeClient the first thing to do is configuring the access to the Media Storage.
 
 You have to select the "spanner" in the upper right of the screen in orther to configure settings, including the access to the Media Storage.
+
 ![ScreenShoot](./pictures/Screenshot_20190904-152400.png)
 
 There are some parameters to configure. You can leave the defaults.
@@ -28,11 +30,13 @@ There are some parameters to configure. You can leave the defaults.
 
 **Only Internal Player:** default(Yes) The app has an internal player for audio files. This internal player can load music to the play queue with one touch of a directory or group of selected files. But you can also use an external player like (Vanilla Music) or VLC or other external player. The difference is that for an external player you can only add music one file at the time. In the internal player you can add music to the queue songs on any number of selected songs or directories.
 
-note:in Vanilla music is possible to play a song, to add a song to a queue or XXXX.
+note:in Vanilla Music is possible to add a song to a queue.
 
 Then push the button called **"New Server"**. With this button you can see 4 fields that you need to configure for adding a storage.
 **Address path field** The first field you need to put the full address where the storage is located, including the bucket. in the screenshoot the bucket is **test**.
-Examples of address path are:
+
+Examples of address are:
+
 https://storage.googleapis.com/mystorage
 
 https://f001.backblazeb2.com/file/mybucket
@@ -41,7 +45,10 @@ https://f001.backblazeb2.com/file/mybucket
 **Enable Field** Default is disabled, but if you selected, it try to download the index file. Leave enable to see the files in the storage.
 **Password field** If your storage is encrypted write the password in this field. (Optional) and then select **enable** to read the encrypted index file.
 
-You can have multiple servers or storages but only you can downloaded media files if they are **enabled**.
+You can have multiple storages at the same time, but only you can download media files if they are **enabled**.
+
+## 2- Knowing the interface
+
 
 
 
