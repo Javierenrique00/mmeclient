@@ -86,11 +86,13 @@ To return from the directory screen to a search screen you need to **swipe to th
 ![ScreenShoot directory screen](./pictures/explicacion2.png)
 
 
-In the directory screen you can see the root bucket of the cloud storage with the size of the folders and files an navigate in the directory structure.
+In the directory screen you can see the root bucket of the cloud storage with the size of the folders and files. Then you can navigate in the directory structure.
 
 You can play all of the songs inside a folder or group of folders that are selected. In order to select a folder you need to make a long push of the folder until the selection symbol appears. Then select Add songs to the queue and play (2).
 
-You can use the android back button or the Directory up button (1) to navigate up in the directory structure.
+You can use the android back button(3) or the Directory up button (1) to navigate up in the directory structure.
+
+You can navigate to the search screen with a swipe to the left(4).
 
 
 
