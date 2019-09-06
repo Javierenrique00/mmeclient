@@ -6,6 +6,10 @@ MMeClient is an Android app (Free and without advertising also) that you can dow
 
 MMeClient reads the Minio Music Server Index file, and with it you can find, download and play files that are stored in a Minio server or public cloud storage. ( Amazon S3, Google storage, Azure, Backblaze B2 and other public anonimous storage)
 
+_MMeClient video_
+
+[![Video](./pictures/video1.jpg)](https://www.youtube.com/watch?v=THsvST5LZzo)
+
 _MMeClient Screenshot_
 
 ![ScreenShoot](./pictures/Screenshot_20190904-152246.png)
