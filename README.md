@@ -8,7 +8,7 @@ MMeClient reads the Minio Music Server Index file, and with it you can find, dow
 
 _MMeClient video_
 
-[![Video](./pictures/video1.jpg)](https://www.youtube.com/watch?v=THsvST5LZzo)
+[![Video](./pictures/video2_img.jpg)](https://www.youtube.com/watch?v=THsvST5LZzo)
 
 _MMeClient Screenshot_
 
